@@ -9,9 +9,9 @@ void setup()
 
 void loop()
 {
-  blinkLong();
   blinkShort();
   blinkLong();
+  blinkShort();
   delay(2000);
 }
 
