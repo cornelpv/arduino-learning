@@ -1,5 +1,5 @@
 /*
-blink the SOS code: 3 long, 3 short, 3 long, pause, repeat
+blink on up (max) and down (min) apmlitude of the heartbeat
 */
 
 void setup()
